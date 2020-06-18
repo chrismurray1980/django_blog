@@ -1,2 +1,8 @@
 Django~=1.11.19
 pytz~=2018.7
+pillow~=7.1.2
+django-forms-bootstrap
+dj-database-url
+psycopg2-binary
+whitenoise
+gunicorn
